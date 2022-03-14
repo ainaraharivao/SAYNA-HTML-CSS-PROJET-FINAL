@@ -61,6 +61,20 @@ nav {
    font-family: 'Advent Pro', sans-serif;
 }
 
+.deuxiemetrait {
+    height: 0.1rem;
+    width: 50%;
+    margin: 1rem auto;
+    background-color: #ffffff;
+}
+
+.troisiemetrait {
+    height: 0.01rem;
+    width: 50%;
+    margin: 1.5rem auto;
+    background-color: #ffffff;
+}
+
 .info a{
    color: #ffff; 
   text-decoration: none;
